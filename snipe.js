@@ -1409,7 +1409,7 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome to Jupiter Trade Bot* 🤖
+🚀 *Welcome to Axiom Trade Bot* 🤖
 
 *I'm your Web3 execution engine*.
 ━━━━━━━━━━━━━━━━━━
@@ -1420,7 +1420,6 @@ async function showMainMenu(ctx, edit = false) {
 ⚡ Operate at machine-speed — no lag, no emotion
 ━━━━━━━━━━━━━━━━━━
 ${walletInfo}
-🏦 *CASH & STABLE COIN BANK*
 _Paste any Solana contract address to analyze_
   `;
   
